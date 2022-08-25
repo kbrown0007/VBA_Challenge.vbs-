@@ -148,6 +148,7 @@ Sub AllStocksAnalysisRefactored()
  
 End Sub
 
+<img width="345" alt="Screenshot 2022-08-25 103536" src="https://user-images.githubusercontent.com/109318020/186696944-102f9dce-e7dd-4b36-9f61-b7f4a0fc265b.png">
 
 
 
