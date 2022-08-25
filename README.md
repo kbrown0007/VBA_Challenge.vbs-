@@ -141,7 +141,7 @@ Sub AllStocksAnalysisRefactored()
  
 End Sub
 
-#Advantages or Disadvantages of refactoring code
+# Advantages or Disadvantages of refactoring code
 
 <img width="259" alt="Screenshot 2022-08-25 105221" src="https://user-images.githubusercontent.com/109318020/186698339-9517820d-aad9-48bd-8938-93e9fd463b8e.png">
 
