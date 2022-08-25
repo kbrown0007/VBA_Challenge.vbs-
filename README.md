@@ -3,7 +3,7 @@ Module 2 Homework
  # Summry report 
  The purpose of this analysis is so that the client Steve can see an expanded version of the dataset to include the entire stock market over the last few years. There are thousands of stocks that need to be looked at. Where going to be giving him version of the data that compares the year of 2017 and 2018. 
 
-I’ll be executing the original script and the refactored script.  We will be trying to refractor the code and loop in all the spreadsheet, find a ticker, we use then use to retrieve the total volume of the stock by using its starting and ending of the stocks themselves.  We will also make sure that the code successfully made the VBA script run faster.
+I will be executing the original script and the refactored script. We will be trying to refractor the code and loop in all the spreadsheet, find a ticker, we use then use to retrieve the total volume of the stock by using its starting and ending of the stocks themselves. We will also make sure that the code successfully made the VBA script run faster.
 # Here is the Code 
 Sub AllStocksAnalysisRefactored()
 
@@ -142,6 +142,17 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 
 # Advantages or Disadvantages of refactoring code
+
+One of the best advantages of refactoring code is really just better quality of the code. Being able to have a more concise version of the code that may be more legible. As well more compressed and specifically give the client or person exactly the information that they need from the data. 
+
+A disadvantage to refactoring code is if the actual data is wrong to begin with. Or if the source of the data is extremely long so it will take a much longer time then expected to refactor the information. Or when someone ask you to give the wrong answer to the questions and info need from refactoring the data. 
+
+# Pros and Cons
+
+A pro for refactor are that we can find bugs or execute the program faster. Making the original script better. 
+
+Yet con would be the fact that you do not know how long it may take to refactor the code. And you do not want to refactor a script close to deadline or even if the code is stable. 
+
 
 <img width="259" alt="Screenshot 2022-08-25 105221" src="https://user-images.githubusercontent.com/109318020/186698339-9517820d-aad9-48bd-8938-93e9fd463b8e.png">
 
