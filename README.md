@@ -147,3 +147,8 @@ Sub AllStocksAnalysisRefactored()
          Next i
  
 End Sub
+
+
+
+
+
