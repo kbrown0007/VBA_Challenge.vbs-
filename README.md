@@ -72,8 +72,6 @@ Sub AllStocksAnalysisRefactored()
         tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value
        
        
-       
-       
         '3b) Check if the current row is the first row with the selected tickerIndex.
         'If  Then
             
@@ -82,9 +80,7 @@ Sub AllStocksAnalysisRefactored()
             tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
         End If
         
-        
-        
-        
+ 
             
         'End If
         
@@ -96,10 +92,7 @@ Sub AllStocksAnalysisRefactored()
             tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
             
             End If
-            
-            
-      
-            
+       
             '3d Increase the tickerIndex.
             'Add plus 1
             
@@ -147,6 +140,8 @@ Sub AllStocksAnalysisRefactored()
          Next i
  
 End Sub
+
+#Advantages or Disadvantages of refactoring code
 
 <img width="259" alt="Screenshot 2022-08-25 105221" src="https://user-images.githubusercontent.com/109318020/186698339-9517820d-aad9-48bd-8938-93e9fd463b8e.png">
 
